@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width initial-scale=1.0" />
+    <title>Formvlidation</title>
+  </head>
+  <body>
+    <div class="error-message">
+      Error will display here
+      <!--- error message--->
+    </div>
+    <br />
+    <form id="feedback" onsubmit="handleOnSubmit(event)">
+      <input id="delighted" type="radio" /> Delighted <br />
+      <input id="donate" type="checkbox" />Donate<br />
+      <input
+        id="not-delighted"
+        type="radio"
+        name="not-delighted"
+      />Not-delighted <br />
+      <br />
+      Reason <input id="reason" type="text" name="reason" /><br />
+      <hr />
+      <input type="submit" value="Submit" /><br />
+      <br />
+    </form>
+
+    <script src="script.js"></script>
+  </body>
+</html>
