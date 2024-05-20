@@ -55,7 +55,7 @@ console.log(colors.slice(1)); //[ 'White', 'Red', 'Green', 'Blue' ]
 const lang = ["English", "Malayalam", "French", "Chinese", "Japanese"];
 console.log(lang.indexOf("English")); // 0;
 console.log(lang.indexOf("abx")); //-1
-console.log(lang.indexOf("French", 3)); //-1 from where to start the search (french is on 2nd position)
+console.log(lang.indexOf("French", 3)); //-1 -> from where to start the search (french is on 2nd position)
 console.log(lang.lastIndexOf("Chinese")); //3 if there is 2 values the second one's index will return
 console.log(lang.includes("Japanese")); //true
 
