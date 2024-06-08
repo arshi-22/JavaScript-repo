@@ -1,0 +1,7 @@
+1) Reverse a String: 
+    Write a function that takes a string as input and returns a new string with the characters in reverse order. 
+    (e.g., "hello" becomes "olleh")
+2) Check if a Number is Even or Odd:
+    Write a function that takes a number as input and returns true if the number is even, false otherwise.
+3) Find the Largest Element in an Array: 
+    Write a function that takes an array of numbers as input and returns the largest number in the array.
