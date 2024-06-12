@@ -1,0 +1,7 @@
+- _Implement a Custom In-Memory Cache:
+  _ Build a simple cache system using JavaScript objects or maps to store data and retrieve it efficiently. Consider key        expiration or eviction policies.
+- _Create a Binary Search Tree:
+  _ Write a function to create and manipulate a binary search tree data structure, allowing for efficient insertion, searching, and deletion of elements.
+
+- _Implement a Custom Promise Library:
+  _ Simulate the core functionality of promises, including then, catch, and chaining, using callbacks or async/await syntax.

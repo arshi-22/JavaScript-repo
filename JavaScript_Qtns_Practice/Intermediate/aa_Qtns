@@ -1,0 +1,8 @@
+- _Implement a Debounce Function:_  
+   A debounce function delays the execution of a function until a certain amount of time has passed since the last call. This is useful for preventing excessive function calls, like live search suggestions.
+
+- _Deep Clone an Object:_
+  Write a function that takes an object as input and returns a new object that is a deep copy of the original. This means any nested objects or arrays are also copied.
+
+- _Group Anagrams Together:_
+  Write a function that takes an array of strings as input and returns a new array where the strings are grouped together based on their anagrams. (e.g., ["eat", "ate", "tea", "tan"] would be grouped as [["eat", "ate", "tea"], ["tan"]])
